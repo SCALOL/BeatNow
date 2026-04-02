@@ -48,6 +48,7 @@ Goal : Successfully defense rhythm bullet as many as possible until game music i
 
 ## Demo
 https://z4ku5.itch.io/beatnow
+[**Gameplay Video**](https://youtu.be/h2o2eAgOKxo)
 
 ## Contributing
 
