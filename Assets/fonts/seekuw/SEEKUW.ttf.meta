@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3d8b0b778021e54b977ceb51228fbc2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SEEKUW
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 281b92450caf9914d8e2ec25084dc7e4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
